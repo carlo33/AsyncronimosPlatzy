@@ -1,0 +1,20 @@
+{
+  "name": "asyncronismo",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronimos en javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "carlos yaco",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
